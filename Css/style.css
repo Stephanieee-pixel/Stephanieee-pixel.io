@@ -7,20 +7,22 @@ h1:hover{
   color:#582C4D;
 }
 h2 {
-  color:rgb(152, 54, 129);
+  color: #A79AB2;
   font-family: 'Kalam', cursive;"
+  font-size: 50px;
 }
 p {
-  color:rgb(17, 164, 150);
+  color: #73C1C6;
   font-family: 'Righteous', cursive;
-  font-size:22px;
+  font-size:25px;
   text-indent:15px;
   margin-left:40px;
   margin-right:40px;
   width: 500px;
+  background-color: #192A51;
 }
 h3 {
-  color:rgb(215, 202, 23);
+  color:#AAA1C8;
   font-size:35px;
   font-family: 'Amaranth', sans-serif;
   margin-left:1660px
@@ -39,7 +41,7 @@ th {
 td {
   font-family: 'Shadows Into Light', cursive;
   font-size:25px;
-  color:rgb(21, 172, 218);
+  color:#542E71;
 }
 li {
   font-family: 'Lobster Two', cursive;
@@ -52,7 +54,7 @@ h4 {
   color:rgb(116, 78, 195);
 }
 ul {
-  color:rgb(97, 158, 111);
+  color:#967AA1;
 }
 body{
   background-image: url('../img/stars.jpg');
@@ -62,10 +64,10 @@ body{
 img{
   width:400px;
   height:400px;
-  padding-left: 100px;
-  padding-right: 100px;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  padding: 60px 100px 60px 100px;
+}
+img:hover{
+  background-color: #96C3CE;
 }
 .toolbar{
   width:700px;
@@ -83,6 +85,27 @@ a{
   height:400px;
 }
 .snow{
-  width:430px;
+  width:445px;
   height:400px;
+}
+.new{
+  font-size: 45px;
+  color:#B57BA6;
+  font-family: 'Niconne', cursive;
+  padding-left: 200px;
+  padding-top:70px;
+  padding-right: 300px;
+  padding=bottom: 80px;
+}
+.clearfix{
+  overflow: auto;
+}
+.movie{
+  font-size: 35px;
+  font-family: 'Alegreya', serif;
+  padding-left: 350px;
+  padding-top: 50px;
+  padding-right: 100px;
+  padding=bottom: 50px;
+  color: #73C1C6;
 }
