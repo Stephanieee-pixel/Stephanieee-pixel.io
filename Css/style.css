@@ -20,7 +20,9 @@ p {
   margin-right:40px;
   width: 500px;
   background-color: #192A51;
+
 }
+
 h3 {
   color:#AAA1C8;
   font-size:35px;
@@ -88,14 +90,11 @@ a{
   width:445px;
   height:400px;
 }
-.new{
+#new{
   font-size: 45px;
   color:#B57BA6;
   font-family: 'Niconne', cursive;
-  padding-left: 200px;
-  padding-top:70px;
-  padding-right: 300px;
-  padding=bottom: 80px;
+  padding: 30px 300px 40px 200px;
 }
 .clearfix{
   overflow: auto;
@@ -103,9 +102,15 @@ a{
 .movie{
   font-size: 35px;
   font-family: 'Alegreya', serif;
-  padding-left: 350px;
-  padding-top: 50px;
-  padding-right: 100px;
-  padding=bottom: 50px;
+  padding: 50px 100px 50px 250px;
   color: #73C1C6;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+.neat{
+  margin-left: 50px;
+  margin-right: 500px;
+}
+.top{
+  font-size: 40px;
 }
