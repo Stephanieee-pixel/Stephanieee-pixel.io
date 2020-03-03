@@ -1,116 +1,26 @@
-h1 {
-  color:#A44A3F;
-  font-family:'Courgette', cursive;
-  text-align:center;
-}
-h1:hover{
-  color:#582C4D;
-}
-h2 {
-  color: #A79AB2;
-  font-family: 'Kalam', cursive;"
+h1{
+  color: #7EB09B;
+  font-family: 'Tangerine';
+  font-weight: bold;
   font-size: 50px;
 }
-p {
-  color: #73C1C6;
-  font-family: 'Righteous', cursive;
-  font-size:25px;
-  text-indent:15px;
-  margin-left:40px;
-  margin-right:40px;
-  width: 500px;
-  background-color: #192A51;
+
+.carousel .carousel-inner{
+    height: 800px !important;
 
 }
-
-h3 {
-  color:#AAA1C8;
-  font-size:35px;
-  font-family: 'Amaranth', sans-serif;
-  margin-left:1660px
-}
-.table {
-  width:70px;
-  height:70px;
-}
-table{
-  border-collapse:collapse;
-}
-th {
-  font-family: 'Anton', sans-serif;
-  font-size:30px;
-}
-td {
-  font-family: 'Shadows Into Light', cursive;
-  font-size:25px;
-  color:#542E71;
-}
-li {
-  font-family: 'Lobster Two', cursive;
-  font-size:25px;
-  margin-left: 1650px
-}
-h4 {
-  font-size:30px;
-  font-family: 'Rock Salt', cursive;
-  color:rgb(116, 78, 195);
-}
-ul {
-  color:#967AA1;
-}
-body{
-  background-image: url('../img/stars.jpg');
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-img{
+.fairy{
+  height:500px;
   width:400px;
-  height:400px;
-  padding: 60px 100px 60px 100px;
 }
-img:hover{
-  background-color: #96C3CE;
+.display-3 {
+  margin-left: 200px;
+  margin-top: 100px
 }
-.toolbar{
-  width:700px;
-  height:40px;
-  text-align: center;
-  background-color:#C7AC92;
-  font-family: 'Francois One', sans-serif;
-  padding: 0px;
+.lead{
+  margin-left: 250px;
+  margin-top: 50px;
 }
-a{
-  color:#A44A3F;
-}
-.city{
-  width:420px;
-  height:400px;
-}
-.snow{
-  width:445px;
-  height:400px;
-}
-#new{
-  font-size: 45px;
-  color:#B57BA6;
-  font-family: 'Niconne', cursive;
-  padding: 30px 300px 40px 200px;
-}
-.clearfix{
-  overflow: auto;
-}
-.movie{
-  font-size: 35px;
-  font-family: 'Alegreya', serif;
-  padding: 50px 100px 50px 250px;
-  color: #73C1C6;
-  margin-left: 100px;
-  margin-right: 100px;
-}
-.neat{
-  margin-left: 50px;
-  margin-right: 500px;
-}
-.top{
-  font-size: 40px;
+.card-body{
+  background-color:#B6F9C9;
 }
